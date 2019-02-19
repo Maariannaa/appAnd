@@ -1,0 +1,3 @@
+export const HOME_SCREEN = 'HOME_SCREEN'
+export const NEW_ITEM_SCREEN = 'NEW_ITEM_SCREEN'
+export const COMMENT_SCREEN = 'COMMENT_SCREEN'
